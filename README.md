@@ -1,4 +1,5 @@
 # springboot-gwt
+## 将gwt war 文件输出为springboot 静态资源文件
 
     <profiles>
         <profile>
@@ -21,11 +22,4 @@
         </profile>
     </profiles>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
+  
