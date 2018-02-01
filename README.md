@@ -1,5 +1,6 @@
 # springboot-gwt
-## 将gwt war 文件输出为springboot 静态资源文件
+-- gwt与springboot结合 以jsp为模板引擎
+## 将gwt war 文件输出为springboot 静态资源文件 配置如下：
 
     <profiles>
         <profile>
