@@ -10,8 +10,7 @@
     <base href="<%=basePath%>">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-    <script type="text/javascript" language="javascript" src="cn.liusf.gwt.ui.GwtDemo/cn.liusf.gwt.ui.GwtDemo.nocache.js"></script>
-    <link rel="stylesheet" href="css/ui.css">
+    <script type="text/javascript" language="javascript" src="GwtDemo/GwtDemo.nocache.js"></script>
     <title>CIM-泛能网络科技</title>
 </head>
 <body>
